@@ -3,7 +3,7 @@ from torch.utils.data import DataLoader
 import pytorch_lightning as pl
 import torch
 from PIL import ImageFile
-from dataset.dataset import ClassificationDataset, RegressionDataset
+from src.dataset.dataset import ClassificationDataset, RegressionDataset
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 

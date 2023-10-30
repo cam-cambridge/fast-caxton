@@ -16,14 +16,11 @@ class ClassificationDataset(Dataset):
         image_dim=(350, 350),
         precropped=False,
         raw=False,
-        test=False
     ):
 
-        self.dataframe = pd.read_csv(csv_file)
+        self.dataframe = pd.read_csv(csv_file, encoding='utf-16')
         self.root_dir = root_dir
-
         self.image_dim = image_dim
-
         self.precropped = precropped
         self.raw = raw
 
@@ -61,7 +58,6 @@ class RegressionDataset(ClassificationDataset):
         image_dim=(350, 350),
         precropped=True,
         raw=False,
-        test=False
     ):
         super().__init__(
             csv_file=csv_file,
@@ -69,8 +65,6 @@ class RegressionDataset(ClassificationDataset):
             image_dim=image_dim,
             precropped=precropped,
             raw=raw,
-            test=test
-
         )
 
     def get_labels(self, idx):

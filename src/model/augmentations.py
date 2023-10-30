@@ -1,21 +1,7 @@
 import torch
 import torch.nn as nn
-from kornia import image_to_tensor
 import torchvision.transforms as T
 import torchvision.transforms.functional as TF
-from kornia.augmentation import (
-    AugmentationBase2D,
-    ImageSequential,
-    Resize,
-    Normalize,
-    CenterCrop,
-    RandomCrop,
-    RandomHorizontalFlip,
-    RandomRotation,
-    ColorJiggle
-)
-import numpy as np
-import torchvision
 
 class Preprocess(nn.Module):
     def __init__(self, test):
