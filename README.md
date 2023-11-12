@@ -18,7 +18,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Usage
+## Usage
 
 Inside the `src` directory are two sub-directories for our `data` and `model`. We use Pytorch-Lightning (v1.1.4) as a wrapper for both the dataset and datamodule classes and for our model.
 
