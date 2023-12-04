@@ -1,0 +1,17 @@
+,img_path,timestamp,flow_rate,feed_rate,z_offset,target_hotend,hotend,bed,nozzle_tip_x,nozzle_tip_y
+1999,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2000_camera1.jpg,2022-03-09T14:12:33-797,127,100,0.0,205.0,205.0,60.37,958,614
+2000,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2001_camera1.jpg,2022-03-09T14:12:33-837,127,100,0.0,205.0,205.0,60.37,958,614
+2001,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2002_camera1.jpg,2022-03-09T14:12:33-877,127,100,0.0,205.0,205.0,60.37,958,614
+2002,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2003_camera1.jpg,2022-03-09T14:12:33-917,127,100,0.0,205.0,205.0,60.37,958,614
+2003,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2004_camera1.jpg,2022-03-09T14:12:33-958,127,100,0.0,205.0,205.0,60.37,958,614
+2004,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2005_camera1.jpg,2022-03-09T14:12:34-039,127,100,0.0,205.0,205.0,60.37,958,614
+2005,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2006_camera1.jpg,2022-03-09T14:12:34-117,127,100,0.0,205.0,205.0,60.37,958,614
+2006,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2007_camera1.jpg,2022-03-09T14:12:34-157,127,100,0.0,205.0,205.0,60.37,958,614
+2007,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2008_camera1.jpg,2022-03-09T14:12:34-201,127,100,0.0,205.0,205.0,60.37,958,614
+2008,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2009_camera1.jpg,2022-03-09T14:12:34-282,127,100,0.0,205.0,205.0,60.37,958,614
+2009,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2010_camera1.jpg,2022-03-09T14:12:34-362,127,100,0.0,205.0,205.0,60.37,958,614
+2010,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2011_camera1.jpg,2022-03-09T14:12:34-402,127,100,0.0,205.0,205.0,60.37,958,614
+2011,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2012_camera1.jpg,2022-03-09T14:12:34-482,127,100,0.0,205.0,205.0,60.37,958,614
+2012,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2013_camera1.jpg,2022-03-09T14:12:34-521,127,100,0.0,205.0,205.0,60.37,958,614
+2013,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2014_camera1.jpg,2022-03-09T14:12:34-561,127,100,0.0,205.0,205.0,60.37,958,614
+2014,dataset2/split_1.0mm_cura_disc_0-2022-03-09T14-07-09-050/split_1.0mm_cura_disc_0-2015_camera1.jpg,2022-03-09T14:12:34-602,127,100,0.0,205.0,204.97,60.35,958,614
